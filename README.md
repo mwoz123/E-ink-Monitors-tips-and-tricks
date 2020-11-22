@@ -1,12 +1,14 @@
-# E-ink-monitor-software-themes-and-tools
+# E-ink-monitor-tips-and-trics
 
 My experience with Dasung Paperlike HD monitor and software, themes and tools that might be usefull when you use Electronic Ink monitor.
 
 As recomended by producer I aslo recomend to use as less as possible white backgrounds (as eink referesh faster white sections and extends monitor lifespan).
+Keyboard should be used as much as possible.
 
 # Chromium based browser extensions: 
-- stop autoplay html videos https://chrome.google.com/webstore/detail/disable-html5-autoplay/efdhoaajjjgckpbkoglidkeendpkolai?hl=pl
 - use keyboard only to navigate Vimium: https://vimium.github.io
+- stop autoplay html videos https://chrome.google.com/webstore/detail/disable-html5-autoplay/efdhoaajjjgckpbkoglidkeendpkolai?hl=pl
+- blocking gifs: 
 
 # Gnome
 - Gnome-eink theme https://gitlab.gnome.org/reverland/gnome-eink
